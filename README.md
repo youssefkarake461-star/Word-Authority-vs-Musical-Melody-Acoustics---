@@ -69,6 +69,10 @@ An open-science critical study examining cognitive interference, semantic fossil
 2. *Thayer, J. F., & Lane, R. D. (2009). "Claude Bernard and the heart-brain connection: Further elaboration of a model of neurovisceral integration." Neuroscience & Biobehavioral Reviews, 33(2), 81-88.* (حول استجابة الجهاز العصبي اللاإرادي للإيقاعات المنتظمة).
 
 ---
+## الملحق التجريبي والبيانات الصوتية (Supplementary Data)
+للاطلاع على التفاصيل التقنية للتجارب الصوتية، وتحليل البنية الفيزيائية لمخارج الحروف، والقياسات الحيوية المرتبطة بالترددات، يمكنكم تحميل الورقة التجريبية المكمّلة المرفقة في هذا المستودع:
+* 📄 **[تحميل ملف البيانات والتجارب الصوتية (PDF)](./Quranic_Frequency_Bioacoustics_Data.pdf)**
+
 
 ## ملحق: ردود منهجية على الاعتراضات المتوقعة (FAQ)
 
