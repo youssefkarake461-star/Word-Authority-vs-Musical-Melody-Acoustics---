@@ -124,10 +124,13 @@ An open-science critical study examining cognitive interference, semantic fossil
    * **الرد اللغوي:** على العكس تماماً؛ البحث يدعو إلى استعادة الجوهر الحقيقي لعلم الصوتيات (ضبط مخارج الحروف وصفاتها ومنع الخطأ اللغوي)، وتخليصه من الإضافات الموسيقية والمقامات التي أُلحقت به تاريخياً.
 
 ---
-## مراجع وبحوث ذات علاقة   https://github.com/youssefkarake461-star?tab=repositories
-## تسجيل https://zenodo.org/records/22145435
-## موقع. https://base90-relaxation.netlify.app/
-## الباحث يوسف كركي 
-## العنوان البريدي Email:  youssefkarake461@gmail.com 
+### روابط ذات صلة:
+- **المستودعات البحثية الكاملة:** [GitHub Repositories]( https://github.com/youssefkarake461-star?tab=repositories)
+- **التسجيل العلمي الموثق (Zenodo):** [Zenodo Record]( https://zenodo.org/records/22145435)
+- **منصة التجارب الصوتية:** [Base90 Relaxation]( https://base90-relaxation.netlify.app)
+
+**الباحث:** يوسف كركي (Youssef Karaki) | 
+**البريد الإلكتروني:** `youssefkarake461@gmail.com`
+
 
 *تم إعداد هذه الورقة كمساهمة بحثية مفتوحة المصدر لتعزيز المنهج النقدي والتدبر العلمي.*
